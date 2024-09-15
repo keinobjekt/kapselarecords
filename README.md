@@ -1,2 +1,0 @@
-# kapselarecords
-Kapsela Records website

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Kapsela</title>
-	<atom:link href="http://kapselarecords.local///feed/" rel="self" type="application/rss+xml" />
-	<link>http://kapselarecords.local///</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Record label run by Objekt</description>
 	<lastBuildDate>Sun, 15 Sep 2024 16:49:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>http://kapselarecords.local///wp-content/uploads/2024/09/cropped-KAPSELA_LOGOTYPE_SQUARE-WB-32x32.jpg</url>
+	<url>/wp-content/uploads/2024/09/cropped-KAPSELA_LOGOTYPE_SQUARE-WB-32x32.jpg</url>
 	<title>Kapsela</title>
-	<link>http://kapselarecords.local///</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
