@@ -1,3 +1,3 @@
 <div class="akismet-masthead__logo-container">
-		<img class="akismet-masthead__logo" src="https://keinobjekt.github.io/kapselarecords/wp-content/plugins/akismet/views/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_url() in /Users/tjhertz/Local Sites/kapselarecords/app/public/wp-content/plugins/akismet/views/logo.php:9_Stack trace:_#0 {main}_  thrown in <b>/Users/tjhertz/Local Sites/kapselarecords/app/public/wp-content/plugins/akismet/views/logo.php</b> on line <b>9</b><br />">
+		<img class="akismet-masthead__logo" src="https://kapselarecords.com/wp-content/plugins/akismet/views/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_url() in /Users/tjhertz/Local Sites/kapselarecords/app/public/wp-content/plugins/akismet/views/logo.php:9_Stack trace:_#0 {main}_  thrown in <b>/Users/tjhertz/Local Sites/kapselarecords/app/public/wp-content/plugins/akismet/views/logo.php</b> on line <b>9</b><br />">
 </div>
